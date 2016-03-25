@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Konstantin Bauman
 locale:           en_US
-url:
+url: http://kobauman.github.io/
 
 
 # Jekyll configuration
@@ -41,10 +41,10 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
+  name: Konstantin Bauman
+  avatar: summer.jpg
   bio: "Describe your self."
-  email:
+  email: kbauman@stern.nyu.edu
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -55,9 +55,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: kobauman
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: konstantinbauman
   xing: #username
   instagram: #username
   lastfm: #username
