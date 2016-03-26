@@ -2,7 +2,8 @@
 
 title:            Konstantin Bauman
 locale:           en_US
-url: http://kobauman.github.io/
+url: http://localhost:4000
+#http://kobauman.github.io
 
 
 # Jekyll configuration
