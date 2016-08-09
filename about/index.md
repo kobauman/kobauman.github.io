@@ -1,25 +1,11 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
+title: Short Bio
 modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
-image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+share: false
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
 
-## Minimal Mistakes is all about:
+Konstantin Bauman is a Research Scientist in the Department of Information, Operations and Management Sciences at the [Leonard N. Stern School of Business, NYU](http://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/ioms-dept). His current research interests include machine learning, recommender systems, technology enhanced learning, and natural language processing. Konstantin received his M.S. in Mathematics from [Moscow State Lomonosov University](http://www.msu.ru/en/) in 2008, his M.S. in Data Mining from <a href="">Moscow Institute of Physics and Technology</a> in 2009, and his Ph.D. in Geometry and Topology from [Mathematical Institute of the Russian Academy of Science](http://www.mi.ras.ru/index.php?c=&l=1) in 2012. Before joining NYU, Konstantin worked for five years at the research division of [Yandex](https://yandex.com/company/), working on data mining and machine learning problems.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+##<a markdown="0" href="{{ site.url }}/resume" class="btn">Read Resume</a>

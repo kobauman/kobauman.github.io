@@ -1,16 +1,22 @@
 # Site navigation links
 
 - title: About
-  url: /about/
+  url: /
 
 - title: Resume
   url: /resume/
 
-- title: Publications
-  url: /publications/
+- title: Research
+  url: /research/
 
-- title: Sample Posts
-  url: /posts/
+- title: Personal
+  url: /personal/
+  
+- title: Contact
+  url: /contact/
 
-- title: Theme Setup
-  url: /theme-setup/
+#- title: Sample Posts(DEL)
+#  url: /posts/
+
+#- title: Theme Setup(DEL)
+#  url: /theme-setup/

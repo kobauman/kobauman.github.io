@@ -2,7 +2,9 @@
 
 title:            Konstantin Bauman
 locale:           en_US
-url: http://localhost:4000
+url: http://kobauman.github.io
+#http://people.stern.nyu.edu/kbauman
+#http://localhost:4000
 #http://kobauman.github.io
 
 
@@ -42,17 +44,18 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Konstantin Bauman
+  name: "Konstantin Bauman, Ph.D."
   avatar: summer.jpg
-  bio: "Describe your self."
+  bio: "Research Scientist in IOMS Department Leonard N. Stern School of Business NYU."
   email: kbauman@stern.nyu.edu
   disqus-shortname:
-  twitter: #username
+  twitter: "kbauman_"
   facebook: #username
   google:
     plus: #username
     analytics:
     verify:
+    scholar: zPPIWkgAAAAJ
     ad-client:
     ad-slot:
   bing-verify:
